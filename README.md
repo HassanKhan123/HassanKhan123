@@ -29,5 +29,12 @@
 
 ---
 
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="Hassan Khan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=HassanKhan123&show_icons=true&hide_border=true" />
+
+</details>
+
 [instagram]: https://www.instagram.com/hassankhan_5/
 [linkedin]: https://www.linkedin.com/in/hassan-khan-20365b159/
