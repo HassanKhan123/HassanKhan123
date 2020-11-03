@@ -13,7 +13,7 @@
 <br />
 
 ### Also Find me on:
-<a href="https://dev.to/hassankhan123">
+<a href="https://dev.to/hassankhan123" target="_blank">
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Hassan's DEV Profile" height="30" width="30">
 </a>
 
