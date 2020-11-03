@@ -12,6 +12,11 @@
 
 <br />
 
+### Also Find me on:
+<a href="https://dev.to/hassankhan123">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Hassan's DEV Profile" height="30" width="30">
+</a>
+
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
