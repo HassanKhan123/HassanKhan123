@@ -2,7 +2,7 @@
 
 ## I'm a MERN Developer!!
 
-- 🌱 I’m currently enhancing my backend skills
+- 🌱 I’m currently exploring Vue.js
 
 ### Connect with me:
 
