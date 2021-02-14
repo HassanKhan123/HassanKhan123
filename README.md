@@ -1,6 +1,6 @@
 ### Hi there, I'm Hassan Khan 👋
 
-## I'm a MERN Developer!!
+## I'm a Technical Lead at Xehen!!
 
 - 🌱 I’m currently exploring Docker and Kubernetes
 
