@@ -1,6 +1,6 @@
 ### Hi there, I'm Hassan Khan 👋
 
-## I'm a MERN Developer at Xord!!
+## I'm a Web & Mobile Engineer at Xord!!
 
 - 🌱 I’m currently exploring Docker and Kubernetes
 
