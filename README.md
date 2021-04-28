@@ -2,7 +2,7 @@
 
 ## I'm a Web & Mobile Engineer at Xord!!
 
-- 🌱 I’m currently exploring Flutter
+- 🌱 I’m currently exploring Blockchain and Solidity
 
 ### Connect with me:
 
