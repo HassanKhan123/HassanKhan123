@@ -32,6 +32,7 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img src="https://miro.medium.com/max/2404/1*JUOITpaBdlrMP9D__-K5Fw.png" align="left" alt="Docker" width="66px" />
+<img src="https://en.bitcoinwiki.org/upload/en/images/thumb/d/d5/Solidity.png/400px-Solidity.png" align="left" alt="Solidity" width="66px" />
 <br />
 <br />
 
