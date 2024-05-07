@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/dev_hassan_khan" target="blank"><img src="https://img.shields.io/twitter/follow/dev_hassan_khan?logo=twitter&style=for-the-badge" alt="dev_hassan_khan" /></a> </p>
 
-- 🔭 I’m currently working at **BlockApex**
+- I’m currently working at **Drox Labs**
 
-- 🌱 I’m currently learning **Flutter**
+- Pursuing Master's Degree from **Germany**
 
-- 📫 How to reach me **devhassankhan@gmail.com**
+- How to reach me **devhassankhan@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
